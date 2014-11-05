@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Client_Server_55410596</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="savechange">savechange</string>
+    <string name="delete">delete</string>
+    <string name="Stu_ID">Stu_ID</string>
+    <string name="Name">Name</string>
+    <string name="Tel">Tel</string>
+
+</resources>
